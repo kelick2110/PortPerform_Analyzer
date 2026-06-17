@@ -1,0 +1,26 @@
+# Portfolio Performance Analyzer
+
+A Python application for analysing investment portfolios from transaction data.
+
+## Current Features
+
+- CSV transaction loading
+
+## Planned Features
+- Data validation
+- Holdings calculations
+- Portfolio performance calculations
+- SQL database integration
+- Risk rule engine
+- Interactive charts
+- GUI dashboard
+
+## Technologies
+
+- Python
+- Git
+- GitHub
+
+## Status
+
+In Development
